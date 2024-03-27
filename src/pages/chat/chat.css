@@ -1,0 +1,9 @@
+.chat {
+  display: grid;
+  grid-template-columns: 20% 80%;
+}
+
+.right-side-chat {
+  margin-left: 3rem;
+  width: 50%;
+}

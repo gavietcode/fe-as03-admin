@@ -1,0 +1,17 @@
+h2 {
+  margin: 1rem 10rem;
+}
+.orders {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: auto;
+}
+th,
+td {
+  border: 2px solid blueviolet;
+}
+
+td img {
+  width: 3rem;
+}

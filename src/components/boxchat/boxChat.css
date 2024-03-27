@@ -1,0 +1,7 @@
+.send-button {
+  background-color: goldenrod;
+  color: black;
+  cursor: pointer;
+  width: 4rem;
+  text-align: center;
+}
