@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fe-as03-admin/static/css/main.63c356fa.css",
+    "main.js": "/fe-as03-admin/static/js/main.3bfa63a8.js",
+    "index.html": "/fe-as03-admin/index.html",
+    "main.63c356fa.css.map": "/fe-as03-admin/static/css/main.63c356fa.css.map",
+    "main.3bfa63a8.js.map": "/fe-as03-admin/static/js/main.3bfa63a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63c356fa.css",
+    "static/js/main.3bfa63a8.js"
+  ]
+}
